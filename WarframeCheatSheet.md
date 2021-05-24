@@ -14,3 +14,4 @@ Result   | First Type   | Second Type  | Source |
 Point of interest | Planet |
 ------------------|--------|
 The Index | Neptune |
+Fortuna | Venus |
